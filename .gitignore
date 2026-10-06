@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+data/
+docs/*
+!docs/DSCI_551_Fall_2026_Course_Project_Guidelines.docx.pdf
